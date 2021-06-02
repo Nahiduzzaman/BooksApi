@@ -17,6 +17,12 @@ namespace BooksApi.Controllers
         }
 
         [HttpGet]
+        public ActionResult<object> GetGuid()
+        {
+            return _bookService.GetGuid();
+        }
+
+        [HttpGet]
         public ActionResult<List<Book>> GetBooks()
         {
             return _bookService.GetBooks();

@@ -19,7 +19,6 @@ J:\OTHERS\ASPNET\BooksApi\BooksApi\bin\Debug\netcoreapp3.1\runtimes\win\native\s
 J:\OTHERS\ASPNET\BooksApi\BooksApi\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
 J:\OTHERS\ASPNET\BooksApi\BooksApi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
 J:\OTHERS\ASPNET\BooksApi\BooksApi\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
-J:\OTHERS\ASPNET\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csprojAssemblyReference.cache
 J:\OTHERS\ASPNET\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfoInputs.cache
 J:\OTHERS\ASPNET\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfo.cs
 J:\OTHERS\ASPNET\BooksApi\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.csproj.CoreCompileInputs.cache
